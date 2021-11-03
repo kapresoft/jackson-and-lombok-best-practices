@@ -11,10 +11,10 @@
 	</parent>
 
 	<groupId>com.kapresoft.springboot</groupId>
-	<artifactId>jackson-lombok-best-practices</artifactId>
+	<artifactId>spring-boot-serialize-immutable-objects</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>jackson-lombok-best-practices</name>
-	<description>Spring Boot Jackson and Lombok Best Practices</description>
+	<name>spring-boot-serialize-immutable-objects</name>
+	<description>Spring Boot * Serialize Immutable Objects</description>
 
 	<properties>
 		<java.version>11</java.version>
