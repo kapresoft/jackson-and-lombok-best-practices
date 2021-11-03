@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: "Spring Boot ❤️ Serialize Immutable Objects ❤️"
+
+logging:
+  level:
+    ROOT: warn
+    org.springframework: warn
+    com.kapresoft.springboot.serializeimmutableobjects: debug
